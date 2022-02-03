@@ -5,12 +5,12 @@ body {
     margin: 0
 }
 .h1 {
+    background-color: lightblue;
     text-align: center;
-    color: red;
 }
 .p {
+    background-color: lightblue;
     text-align: center;
-    resize: 1.5 em;
 }
 #unity-container { position: absolute }
 #unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
