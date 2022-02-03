@@ -1,9 +1,16 @@
 body {
-    background-image: linear-gradient(red, yellow);
-    font-family: Garamond, serif; 
-    color: blue;
+    font-family: Garamond, serif;
+    background-color: lightblue;
     padding: 0;
     margin: 0
+}
+h1 {
+    background-color: white;
+    text-align: center;
+}
+p {
+    background-color: white;
+    text-align: center;
 }
 #unity-container { position: absolute }
 #unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
